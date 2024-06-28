@@ -33,9 +33,6 @@ Incident management involves identifying, analyzing, and responding to incidents
 - [grafana-on-call](https://grafana.com/docs/grafana-cloud/on-call/) - An on-call management tool by Grafana.
 - [TheHive](https://github.com/TheHive-Project/TheHive) - A scalable, open-source security incident response platform that supports collaborative investigation of security incidents.
 - [OneUptime](https://github.com/OneUptime/oneuptime) - A complete open-source observability platform that includes incident management, on-call rotations, log analysis, performance tracking, and more.
-
-### Observability Tools
-
 - [Grafana](https://grafana.com/) - An open source platform for monitoring and observability.
 - [Prometheus](https://prometheus.io/) - An open source monitoring system and time series database.
 - [Zabbix](https://www.zabbix.com/) - An enterprise-level open source monitoring solution.
