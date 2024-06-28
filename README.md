@@ -27,6 +27,7 @@ Incident management involves identifying, analyzing, and responding to incidents
 
 ### Open Source Tools
 
+- [HolmesGPT](https://github.com/robusta-dev/holmesgpt) - An open-source AI-powered incident response tool that leverages GPT-3 for automated incident analysis and response.
 - [incident-bot](https://github.com/echoboomer/incident-bot) - A bot for managing incidents in Slack, created by EchoBoomer.
 - [slack-groups](https://github.com/pipedrive/slack-groups) - A Slack app for grouping users and channels, created by Pipedrive.
 - [template-incident-management](https://github.com/slackapi/template-incident-management) - A template for managing incidents using Slack API, created by Slack.
