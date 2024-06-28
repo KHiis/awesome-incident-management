@@ -9,7 +9,7 @@ Thank you for considering contributing to this awesome list! We welcome all cont
 
 2. **Clone the Repository**: Clone your forked repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/awesome-incident-management.git
+   git clone https://github.com/KHiis/awesome-incident-management.git
    ```
 
 3. **Create a New Branch**: Create a new branch for your changes.
