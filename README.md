@@ -45,6 +45,7 @@ Incident management involves identifying, analyzing, and responding to incidents
 - [Thanos](https://thanos.io/) - A highly available Prometheus setup with long-term storage capabilities.
 
 ### Commercial Tools
+- [whatbroke.today](https://whatbroke.today) - AI-powered outage aggregator tracking 100+ cloud services with real-time Telegram alerts and AI-generated incident summaries.
 
 - [PagerDuty](https://www.pagerduty.com/) - A digital operations management platform that helps businesses enhance their incident response efforts.
 - [Splunk On-Call (formerly VictorOps)](https://www.splunk.com/en_us/software/victorops.html) - A platform designed to streamline incident response by centralizing alerts and communications.
