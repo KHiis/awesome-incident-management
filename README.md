@@ -43,6 +43,7 @@ Incident management involves identifying, analyzing, and responding to incidents
 - [Check_MK](https://checkmk.com/) - A comprehensive IT monitoring system.
 - [Mimir](https://grafana.com/oss/mimir/) - A scalable and highly available long-term storage for Prometheus metrics.
 - [Thanos](https://thanos.io/) - A highly available Prometheus setup with long-term storage capabilities.
+- [IncidentFox](https://github.com/incidentfox/incidentfox) - Open-source AI SRE that auto-triages alerts, diagnoses root causes, and proposes fixes using team-specific runbooks.
 
 ### Commercial Tools
 
