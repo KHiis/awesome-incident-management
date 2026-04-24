@@ -18,6 +18,7 @@ A curated list of awesome incident management resources and collections.
 - [Training and Courses](#training-and-courses)
 - [Contributing](#contributing)
 - [License](#license)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ## Introduction
 
