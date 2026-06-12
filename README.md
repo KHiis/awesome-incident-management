@@ -52,6 +52,8 @@ Incident management involves identifying, analyzing, and responding to incidents
 - [Datadog](https://www.datadoghq.com/) - A monitoring and security platform for cloud applications.
 - [New Relic](https://newrelic.com/) - A comprehensive observability platform built to help you monitor, debug, and improve your entire stack.
 - [Splunk](https://www.splunk.com/) - A platform for searching, monitoring, and analyzing machine-generated big data via a web-style interface.
+- [Middleware](https://middleware.io/) - A Full-stack observability with AI SRE agent.
+
 
 ## Documentation and Articles
 
