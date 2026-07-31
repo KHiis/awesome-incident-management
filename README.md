@@ -52,6 +52,7 @@ Incident management involves identifying, analyzing, and responding to incidents
 - [Datadog](https://www.datadoghq.com/) - A monitoring and security platform for cloud applications.
 - [New Relic](https://newrelic.com/) - A comprehensive observability platform built to help you monitor, debug, and improve your entire stack.
 - [Splunk](https://www.splunk.com/) - A platform for searching, monitoring, and analyzing machine-generated big data via a web-style interface.
+- [Nuberio Audit](https://www.nuberio.com/audit) - Free, read-only AWS account scan for missing/noisy CloudWatch alarms, GuardDuty/Security Hub findings, and AWS Config compliance gaps.
 
 ## Documentation and Articles
 
