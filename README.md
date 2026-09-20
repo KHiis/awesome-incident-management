@@ -71,6 +71,9 @@ Incident management involves identifying, analyzing, and responding to incidents
 
 - [PagerDuty Incident Response Documentation](https://github.com/PagerDuty/incident-response-docs) - Comprehensive incident response documentation by PagerDuty.
 
+- [AI coding is slow: incident, rate limit, or local issue?](https://nextreset.ai/guide/ai-slow/) - Decision guide using official incident sources while separating account and local causes.
+
+
 ## Best Practices
 
 - [Incident Management Handbook](https://www.atlassian.com/incident-management/handbook) - A detailed guide on incident management best practices by Atlassian.
